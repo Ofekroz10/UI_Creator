@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!--Pattern(Name, Value, Type)
+    Name- the name of the Ibutton
+    Value- the value to send to the server. The value is the context of the control.
+    Type- DUpDown(Numeric) = 1,
+          CheckBox = 2,
+          Button = 3,
+          RadioButton = 4
+-->
+
+<IbuttonObj>
+  <IbuttonObj Name ="1" Value ="30" Type ="1" />
+  <IbuttonObj Name ="2" Value ="Ofek" Type ="2" />
+  <IbuttonObj Name ="3" Value ="Amit" Type ="3" />
+  <IbuttonObj Name ="4" Value ="Gal" Type ="4" />
+  <IbuttonObj Name ="1" Value ="30" Type ="1" />
+  <IbuttonObj Name ="2" Value ="Ofek" Type ="2" />
+  <IbuttonObj Name ="3" Value ="Amit" Type ="3" />
+  <IbuttonObj Name ="4" Value ="Gal" Type ="4" />
+  <IbuttonObj Name ="1" Value ="30" Type ="1" />
+  <IbuttonObj Name ="2" Value ="Ofek" Type ="2" />
+  <IbuttonObj Name ="3" Value ="Amit" Type ="3" />
+  <IbuttonObj Name ="4" Value ="Gal" Type ="4" />
+  <IbuttonObj Name ="1" Value ="30" Type ="1" />
+  <IbuttonObj Name ="2" Value ="Ofek" Type ="2" />
+  <IbuttonObj Name ="3" Value ="Amit" Type ="3" />
+  <IbuttonObj Name ="4" Value ="Gal" Type ="4" />
+  <IbuttonObj Name ="1" Value ="30" Type ="1" />
+  <IbuttonObj Name ="2" Value ="Ofek" Type ="2" />
+  <IbuttonObj Name ="3" Value ="Amit" Type ="3" />
+  <IbuttonObj Name ="4" Value ="Gal" Type ="4" />
+  <IbuttonObj Name ="1" Value ="30" Type ="1" />
+  <IbuttonObj Name ="2" Value ="Ofek" Type ="2" />
+  <IbuttonObj Name ="3" Value ="Amit" Type ="3" />
+  <IbuttonObj Name ="4" Value ="Gal" Type ="4" />
+</IbuttonObj>
+
